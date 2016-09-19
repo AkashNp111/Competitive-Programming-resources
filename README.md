@@ -10,5 +10,5 @@ Links to websites that are good resources for preparation
 4. http://codeforces.com/blog/entry/15729
 
 5. http://codeforces.com/blog/entry/16221
-
-6.https://github.com/ADJA/algos?files=1
+ 
+6. https://github.com/ADJA/algos?files=1
